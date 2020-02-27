@@ -130,3 +130,11 @@ h1, h2, h3, h4, h5, h6 {
 .table > tbody > tr >  td  {
      vertical-align: middle;
 }
+
+.modal-content{
+  background-color:rgba(132, 133, 136, 1) !important;
+  color:#FFF;
+}
+.avatar-login{
+  margin-left:-20px;
+}

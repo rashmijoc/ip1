@@ -644,7 +644,7 @@ Year       : 2020
             <!---addition of image-->
 
 
-<img src="img/avatar.jpg" alt="Avatar" classs="avatar">
+<img class="avatar-login" src="img/avatar-e.png" alt="Avatar" classs="avatar">
                         <div class="form-group">
                             <div id="message" class="alert alert-danger mt-1 d-none align-middle text-center"></div>
                         </div>
